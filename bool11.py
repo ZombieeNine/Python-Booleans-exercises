@@ -1,0 +1,6 @@
+a=int(input("a: "))
+b=int(input("b: "))
+c=(a%2==0)
+d=(b%2==0)
+e=(d==c)
+print(e)
